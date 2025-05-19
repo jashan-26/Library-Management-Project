@@ -1,4 +1,4 @@
-# Library-Management-Project:
+# LIBRARY MANAGEMENT SYSTEM:
 
 This project was created by Jashanpreet Kaur as a part of a school project.
 
@@ -9,6 +9,6 @@ The Library Management System simplifies library operations, ensuring efficient 
 
 # CONTACT:
 Created by: Jashanpreet Kaur
-Github:
+Github:https://github.com/jashan-26
 Email:jashan.here26@gmail.com
 
