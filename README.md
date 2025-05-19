@@ -7,5 +7,8 @@ This project significantly enhances the efficiency of library operations by redu
 The Library Management System simplifies library operations, ensuring efficient book tracking and improved user experience. It minimizes manual effort, enhances accuracy, and streamlines management tasks effectively.
 
 
-
+# CONTACT:
+Created by: Jashanpreet Kaur
+Github:
+Email:jashan.here26@gmail.com
 
