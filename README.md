@@ -10,5 +10,5 @@ The Library Management System simplifies library operations, ensuring efficient 
 # CONTACT:
 Created by: Jashanpreet Kaur
 Github:https://github.com/jashan-26
-Email:jashan.here26@gmail.com
+
 
